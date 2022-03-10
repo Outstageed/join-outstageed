@@ -1,4 +1,4 @@
-<h1>[Visit docs](/join_outstageed)</h1>
+<h1>  [Visit docs](Join_Outstageed.pdf)  </h1>
 
 
 Contact us!!
